@@ -1,0 +1,6 @@
+Customer_ID,Customer_Name,Age,Gender,Region
+CUST001,John Smith,32,Male,East
+CUST002,Alice Brown,28,Female,North
+CUST003,David Lee,41,Male,West
+CUST004,Emma Wilson,35,Female,East
+CUST005,Michael Johnson,38,Male,North
