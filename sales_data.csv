@@ -1,0 +1,7 @@
+
+Date,Product,Quantity,Price,Customer_ID,Region,Total_Sales
+2024-01-01,Phone,7,37300,CUST001,East,261100
+2024-01-02,Headphones,4,15406,CUST002,North,61624
+2024-01-03,Phone,2,21746,CUST003,West,43492
+2024-01-04,Headphones,1,30895,CUST004,East,30895
+2024-01-05,Laptop,8,39835,CUST005,North,318680
